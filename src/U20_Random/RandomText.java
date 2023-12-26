@@ -3,7 +3,7 @@ package U20_Random;
 import java.util.*;
 
 /**
- *   this program prints a random combination of vowels "aeiou" (between 4-7 characters long)
+ *   this program prints a random combination of vowels "aeiou" (between 4-6 characters long)
  *   a random number of times (between 5-8 lines)
  */
 public class RandomText {
